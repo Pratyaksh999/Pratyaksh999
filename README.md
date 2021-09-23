@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pratyaksh999
-- 👀 I’m interested in Hip hop & Coding
+- 👀 I’m interested in Hip hop, Valorant & Coding
 - 🌱 I’m currently learning Machine Learning/ Python
 - 💞️ I’m looking to collaborate on Machine Learning 
 - 📫 How to reach me: pratyakshbharadwaj@gmail.com 
